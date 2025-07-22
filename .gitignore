@@ -5,3 +5,4 @@ gan/
 diffusion/
 autoregression/
 */data/
+__pycache__/
